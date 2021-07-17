@@ -1,6 +1,6 @@
 const btn = document.querySelector(".button");
-const color = document.querySelector(".color");
-const normal = ["red", "black", "white", "blue", "peach", "pink", "purple", "orange", "gray", "brown", "yellow", "green", "rgb(0,0,205)", "rgb(0,255,0)", "rgb(128,0,0)"];
+const color = document.querySelector(".colors");
+const normal = ["red", "black", "white", "blue", "darksalmon", "lavender", "pink", "purple", "orange", "gray", "brown", "yellow", "green", "rgb(0,0,205)", "rgb(0,255,0)", "rgb(128,0,0)"];
 
 
 btn.addEventListener("click", ()=> {
